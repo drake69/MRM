@@ -1,6 +1,6 @@
 #2.MRM #######################################
 
-setwd('G:/me_impute/code/githubTest')
+setwd('~/githubTest')
 
 #source('/home/fyu/me_impute/realData_PBM/realData_v03/s2_realData_v03_noPreprocess_159_tempSource0.R')
 library(TSPred)
